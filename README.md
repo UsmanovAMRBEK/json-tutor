@@ -1,2 +1,2 @@
 # json-tutor
-Qisqacha JSON haqida
+Qisqacha JSON haiqda
